@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sampleDBbutton" type="id" />
+    <item name="wipeData" type="id" />
+<!--    <item name="termCount" type="id" />-->
+
+</resources>
